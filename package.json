@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "Advent of code solutions",
+  "main": "index.js",
+  "scripts": {
+    "day1:part1": "ts-node src/day1/part1/index.ts",
+    "day1:part2": "ts-node src/day1/part2/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node17": "^1.0.2",
+    "@types/node": "^18.11.10",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
