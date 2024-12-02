@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "day1:part1": "ts-node src/day1/part1/index.ts",
-    "day1:part2": "ts-node src/day1/part2/index.ts"
+    "day1:part2": "ts-node src/day1/part2/index.ts",
+    "day2:part1": "ts-node src/day2/part1/index.ts",
+    "day2:part2": "ts-node src/day2/part2/index.ts"
   },
   "author": "",
   "license": "ISC",
