@@ -1,6 +1,7 @@
 {
   "extends": "@tsconfig/node17/tsconfig.json",
   "compilerOptions": {
+    "target": "ESNext",
     "outDir": "build",
     "resolveJsonModule": true
   },
