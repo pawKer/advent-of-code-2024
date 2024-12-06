@@ -105,3 +105,5 @@ dist
 
 /build
 .DS_Store
+input.ts
+input.txt
