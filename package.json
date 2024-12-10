@@ -21,7 +21,9 @@
     "day8:part1": "ts-node src/day8/part1/index.ts",
     "day8:part2": "ts-node src/day8/part2/index.ts",
     "day9:part1": "ts-node src/day9/part1/index.ts",
-    "day9:part2": "ts-node src/day9/part2/index.ts"
+    "day9:part2": "ts-node src/day9/part2/index.ts",
+    "day10:part1": "ts-node src/day10/part1/index.ts",
+    "day10:part2": "ts-node src/day10/part2/index.ts"
   },
   "author": "",
   "license": "ISC",
